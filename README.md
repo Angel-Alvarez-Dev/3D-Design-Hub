@@ -1,6 +1,6 @@
 # 3D Design Hub
 
-![3D Design Hub](https://example.com/banner.jpg)
+<img src="https://example.com/banner.jpg" alt="3D Design Hub" width="100%">
 
 Welcome to the **3D Design Hub** repository! Here, you will find a collection of high-quality, free 3D models perfect for your next project. Whether you're into 3D printing, laser cutting, or CNC machining, these designs are here to inspire and help you create amazing things.
 
@@ -47,14 +47,13 @@ For more details, see the [LICENSE](LICENSE) file.
 
 Follow us on social media for the latest updates, new designs, and more:
 
-- [Web](https://capricium.my.canva.site)
-- [Instagram](https://www.instagram.com/capricium.co?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
-- [Facebook]()
-- [Twitter]()
+[![Web:](https://img.shields.io/badge/Website-3DDesignHub-blue)](https://capricium.my.canva.site)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/capricium.co?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com)
 
 Thank you for visiting and happy making!
 
 ## Contact
 
-For any questions or inquiries, please reach out to us at [alvarezvillegasjoseangel@gmail.com](mailto:alvarezvillegasjoseangel@gmail.com
-).
+For any questions or inquiries, please reach out to us at [alvarezvillegasjoseangel@gmail.com](mailto:alvarezvillegasjoseangel@gmail.com).
