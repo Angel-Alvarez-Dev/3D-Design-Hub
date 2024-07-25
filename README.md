@@ -1,6 +1,6 @@
 # 3D Design Hub
 
-<img src="https://example.com/banner.jpg" alt="3D Design Hub" width="100%">
+<img src="/Images/logo(3D_Design_hub).png" alt="3D Design Hub" width="100%">
 
 Welcome to the **3D Design Hub** repository! Here, you will find a collection of high-quality, free 3D models perfect for your next project. Whether you're into 3D printing, laser cutting, or CNC machining, these designs are here to inspire and help you create amazing things.
 
