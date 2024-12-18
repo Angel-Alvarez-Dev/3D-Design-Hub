@@ -47,7 +47,7 @@ For more details, see the [LICENSE](LICENSE) file.
 
 Follow us on social media for the latest updates, new designs, and more:
 
-[![Web:](https://sites.google.com/view/capricium-co/home?authuser=0)
+[![Web:] (https://sites.google.com/view/capricium-co/home?authuser=0)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/capricium.co?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com)
